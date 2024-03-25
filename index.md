@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-tagline: You write it - I smooth it
+tagline: You write it. I smooth it.
 description: 
 ---
 
