@@ -9,9 +9,7 @@ Pisząc krystalicznie jasno po angielsku sprawiam, że to, co jest w Twojej gło
 
 Nie jestem surową panią od angielskiego, która tylko poprawi błędy gramatyczne. Redaguję angielskie teksty, tak aby były możliwie jasne, zwięzłe i na temat. Innymi słowy dbam o to, aby tekst angielski oddał pełen sens i znaczenie.
 
-Możesz powiedzieć właściwą rzecz o produkcie, usłudze, mieście lub kraju i nikt nie będzie słuchał. Musisz to powiedzieć tak, żeby ludzie poczuli to w swoich trzewiach. Zatem piszę angielskie teksty marketingowe, które czyta się szybko, łatwo oraz przyjemnie, jednocześnie wzbudzając w twoim kliencie właściwe emocje. Również tworzę anglojęzyczne nazwy, hasła, slogany oraz elementy UI/UX.
-
-Moja praca zapewnia, że treść danego tekstu: da się zrozumieć szybko & jako spójną całość, jest faktycznie łatwa do zapamiętania, zawiera tyle słów ile potrzeba - nie za dużo, nie za mało, pobudzi wyobraźnię, wzbudzi emocje & wywołuje właściwe reakcje, jest jak możliwie wartościowa & wciągająca oraz buduje nieszablonową historię danej marki w sposób precyzyjny.
+Możesz powiedzieć właściwą rzecz o produkcie, usłudze, mieście lub kraju i nikt nie będzie słuchał. Musisz to powiedzieć tak, żeby ludzie poczuli to w swoich trzewiach. Moja praca zapewnia, że treść danego tekstu: da się zrozumieć szybko & jako spójną całość, jest faktycznie łatwa do zapamiętania, zawiera tyle słów ile potrzeba - nie za dużo, nie za mało, pobudzi wyobraźnię, wzbudzi emocje & wywołuje właściwe reakcje, jest jak możliwie wartościowa & wciągająca oraz buduje nieszablonową historię danej marki w sposób precyzyjny.
 
 
 For me, the painful aspects of making a website are
