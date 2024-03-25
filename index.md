@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-tagline: Making written communications smooth
+tagline: You write it - I make it 'smooth'
 description: 
 ---
 
