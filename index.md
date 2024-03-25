@@ -1,14 +1,11 @@
 ---
 layout: page
 title: You write it. I smooth it.
-tagline:
+tagline: 
 description: 
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
+pisząc krystalicznie jasno po angielsku sprawiam, że to, co jest w Twojej głowie, znajdzie się w głowie Twojego klienta. Tak po prostu.
 
 For me, the painful aspects of making a website are
 
