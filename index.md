@@ -7,7 +7,7 @@ description:
 
 Pisząc krystalicznie jasno po angielsku sprawiam, że to, co jest w Twojej głowie, znajdzie się w głowie Twojego klienta.
 
-Nazywam się Stephen Eastham. Jestem Anglikiem, językoznawcą komputerowym, a także prawnikiem. Polski język to moja nieuleczalna pasja od dawna. Nie jestem surową panią od angielskiego, która tylko poprawi błędy gramatyczne. Redaguję angielskie teksty, tak aby były możliwie jasne, zwięzłe i na temat. Innymi słowy dbam o to, aby tekst angielski oddał pełen sens i znaczenie.
+Nazywam się Stephen Eastham. Jestem Anglikiem, językoznawcą komputerowym, a także prawnikiem. Polski język to moja nieuleczalna pasja od dawna. Nie jestem surową panią od angielskiego, która tylko poprawi błędy gramatyczne. Redaguję angielskie teksty, tak aby były możliwie jasne, zwięzłe i na temat. Innymi słowy dbam o to, aby tekst angielski oddał pełne sens i znaczenie tak, jak chciał autor oryginalnego tekstu.
 
 Możesz powiedzieć właściwą rzecz o produkcie, usłudze, mieście lub kraju i nikt nie będzie słuchał. Musisz to powiedzieć tak, żeby ludzie poczuli to w swoich trzewiach. Moja praca zapewnia, że treść danego tekstu da się zrozumieć szybko i jako spójną całość, jest faktycznie łatwa do zapamiętania, zawiera tyle słów ile potrzeba - nie za dużo, nie za mało, pobudzi wyobraźnię, wzbudzi emocje i wywołuje właściwe reakcje, jest jak możliwie wartościowa & wciągająca oraz buduje nieszablonową historię danej marki w sposób precyzyjny.
 
@@ -15,7 +15,7 @@ W przypadku tekstu marketingowo-produktowego nie wystarczy przetłumaczyć tekst
 
 ![](../images/leon.png){: width="400" height="300" style="display: block; margin: 0 auto"}
 
-Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w języku docelowym. Zaadaptowany tekst ma spełniać funkcje oryginalnego tekstu co do joty w możliwie zwięzły sposób, ale w nowym środowisku językowo-kulturowym.
+Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w języku docelowym. Wtedy zaadaptowany tekst spełnia funkcje oryginalnego tekstu co do joty w możliwie zwięzły sposób, ale w nowym środowisku językowo-kulturowym.
 
 
 
