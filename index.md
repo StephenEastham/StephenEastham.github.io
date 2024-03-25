@@ -9,11 +9,11 @@ Pisząc krystalicznie jasno po angielsku sprawiam, że to, co jest w Twojej gło
 
 Nie jestem surową panią od angielskiego, która tylko poprawi błędy gramatyczne. Redaguję angielskie teksty, tak aby były możliwie jasne, zwięzłe i na temat. Innymi słowy dbam o to, aby tekst angielski oddał pełen sens i znaczenie.
 
-Możesz powiedzieć właściwą rzecz o produkcie, usłudze, mieście lub kraju i nikt nie będzie słuchał. Musisz to powiedzieć tak, żeby ludzie poczuli to w swoich trzewiach. Moja praca zapewnia, że treść danego tekstu: da się zrozumieć szybko & jako spójną całość, jest faktycznie łatwa do zapamiętania, zawiera tyle słów ile potrzeba - nie za dużo, nie za mało, pobudzi wyobraźnię, wzbudzi emocje & wywołuje właściwe reakcje, jest jak możliwie wartościowa & wciągająca oraz buduje nieszablonową historię danej marki w sposób precyzyjny.
+Możesz powiedzieć właściwą rzecz o produkcie, usłudze, mieście lub kraju i nikt nie będzie słuchał. Musisz to powiedzieć tak, żeby ludzie poczuli to w swoich trzewiach. Moja praca zapewnia, że treść danego tekstu da się zrozumieć szybko i jako spójną całość, jest faktycznie łatwa do zapamiętania, zawiera tyle słów ile potrzeba - nie za dużo, nie za mało, pobudzi wyobraźnię, wzbudzi emocje i wywołuje właściwe reakcje, jest jak możliwie wartościowa & wciągająca oraz buduje nieszablonową historię danej marki w sposób precyzyjny.
 
 W przypadku tekstu marketingowo-produktowego nie wystarczy przetłumaczyć tekst. Pomyślmy o kultowej reklamie proszku do prania, w której dwóch rosłych chłopców w strojach szlacheckich pyta: „Ojciec, prać?”. Dosłowne tłumaczenie tego krótkiego zdania to zadanie nieomalże niemożliwe. Dotykamy tu bardzo istotnych problemów z pogranicza socjologii, kultury i lingwistyki:
 
-![](../images/leon.png)!
+![](../images/leon.png){: height="36px" width="36px"}
 
 Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w języku docelowym. Zaadaptowany tekst ma spełniać funkcje oryginalnego tekstu co do joty w możliwie zwięzły sposób, ale w nowym środowisku językowo-kulturowym.
 
