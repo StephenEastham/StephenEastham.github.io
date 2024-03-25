@@ -13,7 +13,7 @@ Możesz powiedzieć właściwą rzecz o produkcie, usłudze, mieście lub kraju 
 
 W przypadku tekstu marketingowo-produktowego nie wystarczy przetłumaczyć tekst. Pomyślmy o kultowej reklamie proszku do prania, w której dwóch rosłych chłopców w strojach szlacheckich pyta: „Ojciec, prać?”. Dosłowne tłumaczenie tego krótkiego zdania to zadanie nieomalże niemożliwe. Dotykamy tu bardzo istotnych problemów z pogranicza socjologii, kultury i lingwistyki:
 
-![](../images/leon.png){: width="800" height="600" style="display: block; margin: 0 auto"}
+![](../images/leon.png){: width="400" height="300" style="display: block; margin: 0 auto"}
 
 Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w języku docelowym. Zaadaptowany tekst ma spełniać funkcje oryginalnego tekstu co do joty w możliwie zwięzły sposób, ale w nowym środowisku językowo-kulturowym.
 
