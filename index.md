@@ -5,7 +5,7 @@ tagline:
 description: 
 ---
 
-pisząc krystalicznie jasno po angielsku sprawiam, że to, co jest w Twojej głowie, znajdzie się w głowie Twojego klienta. Tak po prostu.
+Pisząc krystalicznie jasno po angielsku sprawiam, że to, co jest w Twojej głowie, znajdzie się w głowie Twojego klienta. Tak po prostu.
 
 For me, the painful aspects of making a website are
 
