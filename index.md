@@ -5,7 +5,7 @@ tagline:
 description: 
 ---
 
-Pisząc krystalicznie jasno po angielsku sprawiam, że to, co jest w Twojej głowie, znajdzie się w głowie Twojego klienta.
+Redagując, piszę krystalicznie jasno po angielsku. I to sprawia, że to co jest w Twojej głowie, znajdzie się w głowie Twojego klienta.
 
 Nazywam się Stephen Eastham. Jestem Anglikiem, językoznawcą komputerowym, a także prawnikiem. Polski język to moja nieuleczalna pasja od dawna. Nie jestem surową panią od angielskiego, która tylko poprawi błędy gramatyczne. Redaguję angielskie teksty, tak aby były możliwie jasne, zwięzłe i na temat. Innymi słowy dbam o to, aby tekst angielski oddał pełne sens i znaczenie tak, jak chciał autor oryginalnego tekstu.
 
