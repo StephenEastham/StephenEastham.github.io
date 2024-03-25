@@ -11,6 +11,7 @@ Nie jestem surową panią od angielskiego, która tylko poprawi błędy gramatyc
 
 Możesz powiedzieć właściwą rzecz o produkcie, usłudze, mieście lub kraju i nikt nie będzie słuchał. Musisz to powiedzieć tak, żeby ludzie poczuli to w swoich trzewiach. Zatem piszę angielskie teksty marketingowe, które czyta się szybko, łatwo oraz przyjemnie, jednocześnie wzbudzając w twoim kliencie właściwe emocje. Również tworzę anglojęzyczne nazwy, hasła, slogany oraz elementy UI/UX.
 
+Moja praca zapewnia, że treść danego tekstu: da się zrozumieć szybko & jako spójną całość, jest faktycznie łatwa do zapamiętania, zawiera tyle słów ile potrzeba - nie za dużo, nie za mało, pobudzi wyobraźnię, wzbudzi emocje & wywołuje właściwe reakcje, jest jak możliwie wartościowa & wciągająca oraz buduje nieszablonową historię danej marki w sposób precyzyjny.
 
 
 For me, the painful aspects of making a website are
