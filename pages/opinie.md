@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Co mówią klienci o mnie
+title: Co mówią klienci
 description: 
 ---
 |
