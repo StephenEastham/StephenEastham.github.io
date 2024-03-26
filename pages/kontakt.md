@@ -13,7 +13,8 @@ Możesz pisać do mnie po polsku lub angielsku. |
 
 |
 ---------|
-Rozliczam się na podstawie umowy o dzieło lub umowy zlecenia (z przekazaniem praw autorskich do tekstów) - wystawiam rachunek, a nie wystawiam faktur VAT.|
+Rozliczam się na podstawie umowy o dzieło lub umowy zlecenia (z przekazaniem praw autorskich do tekstów).|
+Wystawiam rachunek, a nie wystawiam faktur VAT.|
 |
 
 ---
