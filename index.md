@@ -3,7 +3,6 @@ layout: page
 title: You write it. I smooth it.
 tagline: 
 description: 
-
 ---
 Redagując Twoje teksty, piszę krystalicznie jasno po angielsku. I to sprawia, że to co jest w Twojej głowie, znajdzie się w głowie Twojego klienta.
 
@@ -16,8 +15,7 @@ Nie wystarczy przetłumaczyć tekstu marketingowo-produktowego. Dam przykład. P
 ![](../images/leon.png){: width="500" height="375" style="display: block; margin: 0 auto"}
 
 Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w języku docelowym. Wówczas zaadaptowany tekst spełnia funkcje oryginalnego tekstu - co do joty - w zwięzły sposób, ale w nowym środowisku językowo-kulturowym.
-
 ---
-W czym mogę pomóc? Możesz pisać do mnie po polsku lub angielsku: stephen.eastham59@gmail.com.
-
-Rozliczam się na podstawie umowy o dzieło lub umowy zlecenia (z przekazaniem praw autorskich do tekstów) - wystawiam rachunek, a nie wystawiam faktur VAT.
+- [Opinie](pages/resources.html)
+- [Próbki](pages/resources.html)
+- [Kontakt](pages/resources.html)
