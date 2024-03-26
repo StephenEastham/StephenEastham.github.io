@@ -5,9 +5,6 @@ description:
 ---
 |
 ---------|
-
-![](../images/stephen.png){: width="250" height="180" style="display: block; margin: 0 auto"}|
-
 W czym mogę pomóc? |
 Napisz do mnie pod tym adresem: stephen.eastham59@gmail.com. |
 Możesz pisać do mnie po polsku lub angielsku. |
