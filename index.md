@@ -19,4 +19,4 @@ Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w
 ---
 
 ----|----|----|----
-[Oferta] |[_Opinie_](pages/opinie.html)] | [_Moja pasja_](pages/pasja.html)] | [_Kontakt_](pages/kontakt.html)]
+_Oferta_ |[[Opinie](pages/opinie.html)] | [[Moja pasja](pages/pasja.html)] | [[Kontakt](pages/kontakt.html)]
