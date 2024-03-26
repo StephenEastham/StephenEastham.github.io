@@ -3,7 +3,6 @@ layout: page
 title: Co mówią klienci o mnie
 description: 
 ---
-
 |
 ---------|
 'Stephen robi kawał świetnej roboty. Jeśli zależy Ci, aby Twój tekst był nie tylko zrozumiały dla anglojęzycznej widowni, ale także na tym, by nie zdarzały się potknięcia (które często kojarzą się z brakiem profesjonalizmu), potrzebujesz nie tylko tekstu przetłumaczonego, musi być też „wygładzony”. Stephen oddaje wygładzony tekst, któremu poświęca naprawdę sporo pracy. Warto.'|
