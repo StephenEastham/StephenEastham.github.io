@@ -6,7 +6,7 @@ description:
 |
 ---------|
 
-![](../images/stephen.png){: width="250" height="180" style="display: block; margin: 0 auto"}
+![](../images/stephen.png){: width="250" height="180" style="display: block; margin: 0 auto"}|
 
 W czym mogę pomóc? |
 Napisz do mnie pod tym adresem: stephen.eastham59@gmail.com. |
