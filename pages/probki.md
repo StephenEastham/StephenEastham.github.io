@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Próbki moich tłumaczeń
+title: Wyciągi wybranych tłumaczeń
 description: 
 ---
 
