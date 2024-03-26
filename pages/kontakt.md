@@ -16,4 +16,4 @@ Rozliczam się na podstawie umowy o dzieło lub umowy zlecenia (z przekazaniem p
 ---
 
 ----|----|----
-[[Oferta](https://smoothenglish.com)] | [[Opinie](../pages/opinie.html)] | [[Wyciągi](../pages/probki.html)]
+[[Oferta](https://smoothenglish.com)] | [[Opinie](../pages/opinie.html)] | [[Pasja](../pages/probki.html)]
