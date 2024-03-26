@@ -30,5 +30,5 @@ description:
 
 ---
 
-----|----|----
-[[Oferta](https://smoothenglish.com)] | [[Moja pasja](../pages/pasja.html)] | [[Kontakt](../pages/kontakt.html)]
+----|----|----|----
+[[Oferta](https://smoothenglish.com)] | Opinie | [[Moja pasja](../pages/pasja.html)] | [[Kontakt](../pages/kontakt.html)]
