@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You write it. I smooth it.
+title: Co robię
 tagline: 
 description: 
 ---
@@ -9,9 +9,9 @@ Redagując Twoje teksty, piszę krystalicznie jasno po angielsku. I to sprawia, 
 
 Nazywam się Stephen Eastham. Jestem Anglikiem, językoznawcą komputerowym, a także prawnikiem. Polski język to moja nieuleczalna pasja od dawna. Nie jestem surową panią od angielskiego, która tylko poprawi błędy gramatyczne. Redaguję angielskie teksty, tak aby były możliwie jasne, zwięzłe i na temat. Innymi słowy dbam o to, aby tekst angielski oddał pełen sens i znaczenie, zgodnie z intencją autora dostarczonego tekstu.
 
-Możesz powiedzieć właściwą rzecz o produkcie, usłudze, mieście lub kraju i nikt nie będzie słuchał. Musisz to powiedzieć tak, żeby ludzie poczuli to w swoich trzewiach. Moja praca gwarantuje, że treść tekstu jest szybko zrozumiała i spójna, łatwa do zapamiętania, zawiera tyle słów, ile potrzeba - ani za dużo, ani za mało, pobudza wyobraźnię, wzbudza emocje i wywołuje odpowiednie reakcje, jest wartościowa i wciągająca, a także buduje wyjątkową historię marki w precyzyjny sposób.
+Możesz powiedzieć właściwą rzecz o produkcie, usłudze, mieście lub kraju i nikt nie będzie słuchał. Musisz to powiedzieć tak, żeby ludzie poczuli to w swoich trzewiach. A może Twoje teksty mają własny styl, który wypracowaliście po polsku. Moja praca gwarantuje, że treść tekstu jest szybko zrozumiała i spójna, łatwa do zapamiętania, zawiera tyle słów, ile potrzeba - ani za dużo, ani za mało, pobudza wyobraźnię, wzbudza emocje i wywołuje odpowiednie reakcje, jest wartościowa i wciągająca, a także buduje wyjątkową historię Twojej marki w precyzyjny sposób. 
 
-Przytoczę przykład, pokazujący, że nie wystarczy przetłumaczyć tekstu marketingowo-produktowego. Pomyślmy o kultowej reklamie proszku do prania, w której dwóch rosłych chłopców w strojach szlacheckich pyta: „Ojciec, prać?”. Dosłowne tłumaczenie tego krótkiego zdania to zadanie nieomalże niemożliwe. Dotykamy tu bardzo istotnych problemów z pogranicza socjologii, kultury i lingwistyki:
+Nie wystarczy przetłumaczyć tekstu marketingowo-produktowego. Dam przykład. Pomyślmy o kultowej reklamie proszku do prania, w której dwóch rosłych chłopców w strojach szlacheckich pyta: „Ojciec, prać?”. Dosłowne tłumaczenie tego krótkiego zdania to zadanie nieomalże niemożliwe. Dotykamy tu bardzo istotnych problemów z pogranicza socjologii, kultury i lingwistyki:
 
 ![](../images/leon.png){: width="500" height="375" style="display: block; margin: 0 auto"}
 
