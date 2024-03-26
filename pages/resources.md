@@ -5,6 +5,21 @@ description:
 ---
 
 
+Header 1 | 
+---------|
+'Stephen is one of the best UX/UI copy writers I know. Highly recommended.'  |
+(Tomasz: Product Owner, [SEQR](https://pages.github.com), Stockholm)|
+
+Header 1 | 
+---------|
+Cell 1   |
+Cell 3   |
+
+Header 1 | 
+---------|
+Cell 1   |
+Cell 3   |
+
 * 'Stephen is one of the best UX/UI copy writers I know. Highly recommended.'
 ^
 (Tomasz: Product Owner, [SEQR](https://pages.github.com), Stockholm)
