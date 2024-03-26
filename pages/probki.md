@@ -40,7 +40,7 @@ Ale zanim to zrozumiałem trwało to długo, nim się z tym zamysłem nie zident
  | 
 
 
-(5) Ani takim to było jak raz się wydało, / Ani takim jak teraz układasz w opowieść ...|
+(5) Ani takim to było jak raz się wydało, / Ani takim jak teraz układasz w opowieść ...|![](../images/milosc.jpg){: width="80" height="60" style="display: block; margin: auto"}
 ---------|---------
 ... Trudno spoglądać na swą działalność niejako z zewnątrz, czyli nabrać dystansu wobec motywacji i różnorakich uwikłań, z których rodzi się każda twórczość. Ostatecznie bowiem także tekst naukowy jest przecież kreacją jakiegoś mikroświata. ...|... It is not easy to look at one’s own activities from, as it were, the outside, nor to distance oneself from that which one finds motivating and the various influences on all creative work. Ultimately, writing a scientific text means creating some kind of micro-world. ...
  Zatem podejmuję tę opowieść nie bez oporów, choć z zaciekawieniem. Przyświeca mi myśl Paula Ricoeur’a, który mówi, że nasza tożsamość odsłania się dopiero w akcie opowiadania, bo jest po prostu naszą historią (tzw. tożsamość narracyjna). Ale pamiętam też wersy Czesława Miłosza: „Ani takim to było jak raz się wydało, / Ani takim jak teraz układasz w opowieść”. ...|I therefore begin this story not without a feeling of resistance, although I admit to a certain degree of curiosity. I am guided by Paul Ricoeur, who said that our identity is revealed only in the actual act of storytelling (so called narrative identity) because, put simply, this is our story. But I also recall the following verses by Czesław Miłosz: "Neither was it as it once seemed, / Nor is it as you tell it in your story now." ...
