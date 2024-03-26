@@ -19,9 +19,9 @@ Symbolika sprężyny w pełni wyraża charakter i energię Polaków. Nasze niepo
 Za ważne przyczyny w rozumieniu niniejszej umowy, strony rozumieją między innymi:|In this agreement, 'cause' shall include but not be limited to:
  ... naruszenie przez Stronę umowy lub też personel Zleceniobiorcy obowiązku utrzymania w tajemnicy wszelkich informacji związanych i/lub otrzymanych w związku z wykonaniem niniejszej umowy.| … a breach of the agreement by either Party or a breach of the duty on the part of the Contractor’s personnel to maintain the confidentiality of all the information relating to and/or received in connection with the performance of this contract.
  | 
- | 
+ | -->
 
--->
+
 (2) Agile w praktyce|![](../images/agile.png){: width="240" height="270" style="display: block; margin: auto"}
 ---------|---------
 ... Wynika z tego, że choć w swych założeniach i praktyce podejścia te są od siebie bardzo różne to w praktyce organizacyjnej wykorzystuje się oba te podejścia zależnie od kontektu i sytuacji. Warto posłużyć się tutaj określeniem 'dynamiczne sterowanie' - cele wyznaczamy planując, przewidując, natomiast osiągamy je dynamicznie reagując na zmieniające się warunki.|... The reason for this is that, although the predictive approach and empirical approach are completely different both in theory and in practice, in the real-world, both approaches are used depending on the actual context and situation. Used together, we can talk of 'dynamic control' as follows: we specify our goals by planning and predicting; but we implement our goals by reacting dynamically to changes in the surrounding context.
