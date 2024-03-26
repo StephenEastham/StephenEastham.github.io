@@ -3,7 +3,7 @@ layout: page
 title: Polski język to moja nieuleczalna pasja
 description: 
 ---
-Przedstawiam wyciągi wybranych tłumaczeń:
+Przedstawiam fragmenty z niektórych moich tłumaczeń:
 
 ---
 
