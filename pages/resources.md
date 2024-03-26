@@ -17,7 +17,7 @@ description:
 |
 ---------|
 'Polecamy wszystkim współpracę ze Stephenem. Jest wnikliwym perfekcjonistą. Zadaje sporo celnych pytań i słucha uważnie odpowiedzi (nawet o "niebieskich migdałach"). Z jego tłumaczeniami nasze angielskojęzyczne katalogi robią świetne wrażenie.'|
-Asia, Owner, wydawnictwo [Ładne Halo](), Łódź|
+- Asia, Owner, wydawnictwo [Ładne Halo](), Łódź|
 
 | 
 ---------|
@@ -27,4 +27,4 @@ Asia, Owner, wydawnictwo [Ładne Halo](), Łódź|
 |
 ---------|
 'Dzięki za tłumaczenie naszego folderu promocyjnego. Nikt nie zrobiłby tego lepiej.'|
-Krzysztof, Prezes, [FabLab](), Łódź|
+- Krzysztof, Prezes, [FabLab](), Łódź|
