@@ -7,9 +7,8 @@ description:
 
 | 
 ---------|
-- 'Stephen is one of the best UX/UI copy writers I know. Highly recommended.'  |
-- (Tomasz: Product Owner, [SEQR](https://pages.github.com), Stockholm)|
-
+- Stephen is one of the best UX/UI copy writers I know. Highly recommended.|
+- Tomasz: Product Owner, [SEQR](https://pages.github.com), Stockholm|
 | 
 ---------|
 Cell 1   |
@@ -19,6 +18,14 @@ Cell 3   |
 ---------|
 Cell 1   |
 Cell 3   |
+^
+| 
+---------|
+Cell 1   |
+Cell 3   |
+
+
+
 
 * 'Stephen is one of the best UX/UI copy writers I know. Highly recommended.'
 ^
