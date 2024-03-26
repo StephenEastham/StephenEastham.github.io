@@ -27,3 +27,7 @@ description:
 ---------|
 'Dzięki za tłumaczenie naszego folderu promocyjnego. Nikt nie zrobiłby tego lepiej.'|
 - Krzysztof, Prezes, [FabLab](), Łódź|
+
+
+----|----|----
+|[[Home](../index.html)] | [[Próbki](pages/resources.html)] | [[Kontakt](pages/resources.html)]
