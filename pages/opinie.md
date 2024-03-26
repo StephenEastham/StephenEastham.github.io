@@ -11,24 +11,24 @@ description:
 |
 ---------|
 'Stephen robi kawał świetnej roboty. Jeśli zależy Ci, aby Twój tekst był nie tylko zrozumiały dla anglojęzycznej widowni, ale także na tym, by nie zdarzały się potknięcia (które często kojarzą się z brakiem profesjonalizmu), potrzebujesz nie tylko tekstu przetłumaczonego, musi być też „wygładzony”. Stephen oddaje wygładzony tekst, któremu poświęca naprawdę sporo pracy. Warto.'|
-- Paweł, Owner, [Midea]() / [Blog](), Wrocław| 
+- Paweł, Owner, [Paweł Tkaczyk](https://paweltkaczyk.com/), Wrocław| 
 
 |
 ---------|
 'Polecamy wszystkim współpracę ze Stephenem. Jest wnikliwym perfekcjonistą. Zadaje sporo celnych pytań i słucha uważnie odpowiedzi (nawet o "niebieskich migdałach"). Z jego tłumaczeniami nasze angielskojęzyczne katalogi robią świetne wrażenie.'|
-- Asia, Owner, wydawnictwo [Ładne Halo](), Łódź|
+- Asia, Owner, wydawnictwo [Ładne Halo](https://ladne-halo.pl/), Łódź|
 
 | 
 ---------|
 'To be honest, it's now much harder to create our product without having you as our copywriter.'|
-- Piotr, Product Owner & Team Leader, [SEQR](https://pages.github.com), Stockholm|
+- Piotr, Product Owner & Team Leader, [SEQR](), Stockholm|
 
 |
 ---------|
 'Dzięki za tłumaczenie naszego folderu promocyjnego. Nikt nie zrobiłby tego lepiej.'|
-- Krzysztof, Prezes, [FabLab](), Łódź|
+- Krzysztof, Prezes, [FabLab](https://fablablodz.org/), Łódź|
 
 ---
 
 ----|----|----
-[[Oferta](https://smoothenglish.com)] | [[Próbki](../pages/probki.html)] | [[Kontakt](../pages/kontakt.html)]
+[[Oferta](https://smoothenglish.com)] | [[Tłumaczenia](../pages/probki.html)] | [[Kontakt](../pages/kontakt.html)]
