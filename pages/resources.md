@@ -9,6 +9,8 @@ description:
 ^
 | (Tomasz: Product Owner, [SEQR](https://pages.github.com), Stockholm)
 ^
+^
+^
 
 * 'To be honest, it's now much harder to create our product without having you as our copywriter.'
 | (Piotr: Product Owner & Team Leader, [SEQR](https://pages.github.com), Stockholm)
