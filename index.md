@@ -4,8 +4,8 @@ title: You write it. I smooth it.
 tagline: 
 description: 
 ---
-
-[Próbki](pages/resources.html)  | [Opinie](pages/resources.html) | [Kontakt](pages/resources.html)
+---------|---------|---------
+[Próbki](pages/resources.html) | [Opinie](pages/resources.html) | [Kontakt](pages/resources.html)
 
 ---
 Redagując Twoje teksty, piszę krystalicznie jasno po angielsku. I to sprawia, że to co jest w Twojej głowie, znajdzie się w głowie Twojego klienta.
@@ -21,7 +21,8 @@ Nie wystarczy przetłumaczyć tekstu marketingowo-produktowego. Na przykład, po
 Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w języku docelowym. Wówczas zaadaptowany tekst spełnia funkcje oryginalnego tekstu - co do joty - w zwięzły sposób, ale w nowym środowisku językowo-kulturowym.
 
 ---
-
+         |         |         
+---------|---------|---------
 [Próbki](pages/resources.html)  | [Opinie](pages/resources.html) | [Kontakt](pages/resources.html)
 
 ---
