@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Oferta
+title: Moja oferta
 tagline: 
 description: 
 ---
@@ -17,5 +17,5 @@ Nie wystarczy przetłumaczyć tekstu marketingowo-produktowego. Na przykład, po
 
 Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w języku docelowym. Wówczas zaadaptowany tekst spełnia funkcje oryginalnego tekstu - co do joty - w zwięzły sposób, ale w nowym środowisku językowo-kulturowym.
 
-------------------------------------|----------------------------------|-------------------------------
-|[[Opinie](pages/resources.html)] | [[Próbki](pages/resources.html)] | [[Kontakt](pages/resources.html)]
+----|----|----
+|[[Opinie](pages/opinie.html)] | [[Próbki](pages/resources.html)] | [[Kontakt](pages/resources.html)]
