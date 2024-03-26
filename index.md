@@ -6,7 +6,7 @@ description:
 ---
 Redagując Twoje teksty, piszę krystalicznie jasno po angielsku. I to sprawia, że to co jest w Twojej głowie, znajdzie się w głowie Twojego klienta.
 
-Nazywam się Stephen Eastham. Jestem Anglikiem, językoznawcą komputerowym, a także prawnikiem. Polski język to moja nieuleczalna pasja od dawna. Nie jestem surową panią od angielskiego, która tylko poprawi błędy gramatyczne. Redaguję angielskie teksty, tak aby były możliwie jasne, zwięzłe i na temat. Innymi słowy dbam o to, aby tekst angielski oddał pełen sens i znaczenie, zgodnie z intencją autora dostarczonego tekstu.
+Nazywam się Stephen Eastham. Jestem Anglikiem, językoznawcą komputerowym, a także prawnikiem. Nie jestem surową panią od angielskiego, która tylko poprawi błędy gramatyczne. Redaguję angielskie teksty, tak aby były możliwie jasne, zwięzłe i na temat. Innymi słowy dbam o to, aby tekst angielski oddał pełen sens i znaczenie, zgodnie z intencją autora dostarczonego tekstu.
 
 Możesz powiedzieć właściwą rzecz o produkcie, usłudze, mieście lub kraju i nikt nie będzie słuchał. Musisz to powiedzieć tak, żeby ludzie poczuli to w swoich trzewiach. A może Twoje teksty mają własny styl, który wypracowaliście po polsku. Moja praca gwarantuje, że treść tekstu jest szybko zrozumiała i spójna, łatwa do zapamiętania, zawiera tyle słów, ile potrzeba - ani za dużo, ani za mało, pobudza wyobraźnię, wzbudza emocje i wywołuje odpowiednie reakcje, jest wartościowa i wciągająca, a także buduje wyjątkową historię Twojej marki w precyzyjny sposób. 
 

@@ -4,7 +4,7 @@ title: Próbki moich tłumaczeń
 description: 
 ---
 
-Polski język to moja nieuleczalna pasja od dawna.
+Polski język to moja nieuleczalna pasja od dawna. Oto na to dowód:
 
 ---
 
