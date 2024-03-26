@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Moja oferta
+title: You write it. I smooth it.
 tagline: 
 description: 
 ---
