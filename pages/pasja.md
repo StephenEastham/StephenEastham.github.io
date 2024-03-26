@@ -49,4 +49,4 @@ Ale zanim to zrozumiałem trwało to długo, nim się z tym zamysłem nie zident
 ---
 
 ----|----|----|----
-[[Oferta](https://smoothenglish.com)] | [[Opinie](../pages/opinie.html)] | _Moja pasja_ | [[Kontakt](../pages/kontakt.html)]
+[[Oferta](https://smoothenglish.com)] | [[Opinie](../pages/opinie.html)] | __Moja pasja__ | [[Kontakt](../pages/kontakt.html)]

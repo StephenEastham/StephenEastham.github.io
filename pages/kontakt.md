@@ -20,4 +20,4 @@ Wystawiam rachunek, a nie wystawiam faktur VAT.|
 ---
 
 ----|----|----|----
-[[Oferta](https://smoothenglish.com)] | [[Opinie](../pages/opinie.html)] | [[Moja pasja](../pages/pasja.html)] | _Kontakt_
+[[Oferta](https://smoothenglish.com)] | [[Opinie](../pages/opinie.html)] | [[Moja pasja](../pages/pasja.html)] | __Kontakt__

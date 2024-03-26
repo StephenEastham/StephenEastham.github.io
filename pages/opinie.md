@@ -31,4 +31,4 @@ description:
 ---
 
 ----|----|----|----
-[[Oferta](https://smoothenglish.com)] | _Opinie_ | [[Moja pasja](../pages/pasja.html)] | [[Kontakt](../pages/kontakt.html)]
+[[Oferta](https://smoothenglish.com)] | __Opinie__ | [[Moja pasja](../pages/pasja.html)] | [[Kontakt](../pages/kontakt.html)]
