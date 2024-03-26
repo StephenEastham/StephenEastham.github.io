@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You write it. I smooth it.
+title: [Próbki](pages/resources.html)  | [Opinie](pages/resources.html) | [Kontakt](pages/resources.html)
 tagline: 
 description: 
 ---
