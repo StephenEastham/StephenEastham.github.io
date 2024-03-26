@@ -1,34 +1,20 @@
 ---
 layout: page
-title: Co mówią klienci o mnie
+title: Napisz do mnie | Rozliczenie
 description: 
 ---
 |
 ---------|
-'Stephen robi kawał świetnej roboty. Jeśli zależy Ci, aby Twój tekst był nie tylko zrozumiały dla anglojęzycznej widowni, ale także na tym, by nie zdarzały się potknięcia (które często kojarzą się z brakiem profesjonalizmu), potrzebujesz nie tylko tekstu przetłumaczonego, musi być też „wygładzony”. Stephen oddaje wygładzony tekst, któremu poświęca naprawdę sporo pracy. Warto.'|
-- Paweł, Owner, [Midea]() / [Blog](), Wrocław| 
-
-|
----------|
-'Stephen, it's been a pleasure working with you on the UI, UX and product copywriting for our app.'|
-- Łukasz, Head of UX & Design, [Seamless](), Stockholm|
-
-|
----------|
-'Polecamy wszystkim współpracę ze Stephenem. Jest wnikliwym perfekcjonistą. Zadaje sporo celnych pytań i słucha uważnie odpowiedzi (nawet o "niebieskich migdałach"). Z jego tłumaczeniami nasze angielskojęzyczne katalogi robią świetne wrażenie.'|
-- Asia, Owner, wydawnictwo [Ładne Halo](), Łódź|
-
+W czym mogę pomóc? Możesz pisać do mnie po polsku lub angielsku: stephen.eastham59@gmail.com|
 | 
----------|
-'To be honest, it's now much harder to create our product without having you as our copywriter.'|
-- Piotr, Product Owner & Team Leader, [SEQR](https://pages.github.com), Stockholm|
 
 |
 ---------|
-'Dzięki za tłumaczenie naszego folderu promocyjnego. Nikt nie zrobiłby tego lepiej.'|
-- Krzysztof, Prezes, [FabLab](), Łódź|
+Rozliczam się na podstawie umowy o dzieło lub umowy zlecenia (z przekazaniem praw autorskich do tekstów) - wystawiam rachunek, a nie wystawiam faktur VAT.|
+|
+
 
 ---
 
 ----|----|----
-[[Home](https://smoothenglish.com)] | [[Opinie](../pages/opinie.html)] | [[Próbki](../pages/probki.html)]
+[[Oferta](https://smoothenglish.com)] | [[Opinie](../pages/opinie.html)] | [[Próbki](../pages/probki.html)]
