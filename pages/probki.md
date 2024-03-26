@@ -11,7 +11,7 @@ Symbolika sprężyny w pełni wyraża charakter i energię Polaków. Nasze niepo
  | 
 
 
-![](../images/nda.png){: width="80" height="60" style="display: block; margin: auto"}|Umowa o poufności
+Umowa o poufności|![](../images/nda.png){: width="80" height="60" style="display: block; margin: auto"}
 ---------|---------
 Za ważne przyczyny w rozumieniu niniejszej umowy, strony rozumieją między innymi:|In this agreement, 'cause' shall include but not be limited to:
  ... naruszenie przez Stronę umowy lub też personel Zleceniobiorcy obowiązku utrzymania w tajemnicy wszelkich informacji związanych i/lub otrzymanych w związku z wykonaniem niniejszej umowy.| … a breach of the agreement by either Party or a breach of the duty on the part of the Contractor’s personnel to maintain the confidentiality of all the information relating to and/or received in connection with the performance of this contract.
