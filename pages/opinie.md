@@ -28,6 +28,7 @@ description:
 'Dzięki za tłumaczenie naszego folderu promocyjnego. Nikt nie zrobiłby tego lepiej.'|
 - Krzysztof, Prezes, [FabLab](), Łódź|
 
+---
 
 ----|----|----
 [[Home](https://smoothenglish.com)] | [[Próbki](pages/probki.html)] | [[Kontakt](pages/kontakt.html)]
