@@ -1,3 +1,4 @@
+[Próbki](pages/resources.html)  | [Opinie](pages/resources.html) | [Kontakt](pages/resources.html)
 ---
 layout: page
 title: [Próbki](pages/resources.html)  | [Opinie](pages/resources.html) | [Kontakt](pages/resources.html)
