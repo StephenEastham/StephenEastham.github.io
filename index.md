@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You write it, <div markdown ="1"> then I smooooooooooth it
+title: You write it - <div markdown ="1"> I smooooth it
 tagline: 
 description: 
 ---
