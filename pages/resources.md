@@ -8,7 +8,9 @@ This is a minimal tutorial to get you started. There are lots of
 other resources.
 
 - "Stephen is one of the best UX/UI copy writers I know. Highly recommended."
+
 (Tomasz: Product Owner, [SEQR](https://pages.github.com), Stockholm)
+
 - [Jekyll](https://jekyllrb.com)
 - [JekyllBootstrap](https://jekyllbootstrap.com)
 - [Twitter Bootstrap](https://getbootstrap.com)
