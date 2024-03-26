@@ -29,5 +29,6 @@ description:
 - Krzysztof, Prezes, [FabLab](), Łódź|
 
 ---
+
 ----|----|----
-|[[Home](https://smoothenglish.com)] | [[Opinie](pages/opinie.html)] | [[Kontakt](pages/resources.html)]
+[[Home](https://smoothenglish.com)] | [[Opinie](pages/opinie.html)] | [[Kontakt](pages/kontakt.html)]

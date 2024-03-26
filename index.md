@@ -17,4 +17,4 @@ Nie wystarczy przetłumaczyć tekstu marketingowo-produktowego. Na przykład, po
 Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w języku docelowym. Wówczas zaadaptowany tekst spełnia funkcje oryginalnego tekstu - co do joty - w zwięzły sposób, ale w nowym środowisku językowo-kulturowym.
 
 ----|----|----
-|[[Opinie](pages/opinie.html)] | [[Próbki](pages/probki.html)] | [[Kontakt](pages/kontakt.html)]
+[[Opinie](pages/opinie.html)] | [[Próbki](pages/probki.html)] | [[Kontakt](pages/kontakt.html)]
