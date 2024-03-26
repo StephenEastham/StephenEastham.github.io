@@ -5,9 +5,9 @@ description:
 ---
 
 
-|'Stephen is one of the best UX/UI copy writers I know. Highly recommended.'
+* 'Stephen is one of the best UX/UI copy writers I know. Highly recommended.'
 ^
-| (Tomasz: Product Owner, [SEQR](https://pages.github.com), Stockholm)
+(Tomasz: Product Owner, [SEQR](https://pages.github.com), Stockholm)
 ^
 ^
 ^
