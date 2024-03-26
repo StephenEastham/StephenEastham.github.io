@@ -31,4 +31,4 @@ description:
 ---
 
 ----|----|----
-[[Home](https://smoothenglish.com)] | [[Próbki](pages/probki.html)] | [[Kontakt](pages/kontakt.html)]
+[[Home](https://smoothenglish.com)] | [[Próbki](../pages/probki.html)] | [[Kontakt](../pages/kontakt.html)]

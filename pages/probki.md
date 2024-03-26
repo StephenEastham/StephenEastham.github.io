@@ -31,4 +31,4 @@ description:
 ---
 
 ----|----|----
-[[Home](https://smoothenglish.com)] | [[Opinie](pages/opinie.html)] | [[Kontakt](pages/kontakt.html)]
+[[Home](https://smoothenglish.com)] | [[Opinie](../pages/opinie.html)] | [[Kontakt](../pages/kontakt.html)]
