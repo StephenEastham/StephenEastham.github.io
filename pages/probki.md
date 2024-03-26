@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Wyciągi wybranych tłumaczeń
+title: Polski język to moja nieuleczalna pasja
 description: 
 ---
-
-Polski język to moja nieuleczalna pasja od dawna. Oto na to dowód:
+Przedstawiam wyciągi wybranych tłumaczeń:
 
 ---
 
