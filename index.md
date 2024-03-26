@@ -1,9 +1,12 @@
-[Próbki](pages/resources.html)  | [Opinie](pages/resources.html) | [Kontakt](pages/resources.html)
 ---
 layout: page
-title: [Próbki](pages/resources.html)  | [Opinie](pages/resources.html) | [Kontakt](pages/resources.html)
+title: You write it. I smooth it.
 tagline: 
 description: 
+---
+
+[Próbki](pages/resources.html)  | [Opinie](pages/resources.html) | [Kontakt](pages/resources.html)
+
 ---
 Redagując Twoje teksty, piszę krystalicznie jasno po angielsku. I to sprawia, że to co jest w Twojej głowie, znajdzie się w głowie Twojego klienta.
 
@@ -19,8 +22,6 @@ Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w
 
 ---
 
-Header 1 | Header 2 | Header 3 
----------|---------|---------
 [Próbki](pages/resources.html)  | [Opinie](pages/resources.html) | [Kontakt](pages/resources.html)
 
-
+---
