@@ -4,7 +4,6 @@ title: Moja oferta
 tagline: 
 description: 
 ---
-
 Redagując Twoje teksty, piszę krystalicznie jasno po angielsku. I to sprawia, że to co jest w Twojej głowie, znajdzie się w głowie Twojego klienta.
 
 Nazywam się Stephen Eastham. Jestem Anglikiem, językoznawcą komputerowym, a także prawnikiem. Polski język to moja nieuleczalna pasja od dawna. Nie jestem surową panią od angielskiego, która tylko poprawi błędy gramatyczne. Redaguję angielskie teksty, tak aby były możliwie jasne, zwięzłe i na temat. Innymi słowy dbam o to, aby tekst angielski oddał pełen sens i znaczenie, zgodnie z intencją autora dostarczonego tekstu.
@@ -18,4 +17,4 @@ Nie wystarczy przetłumaczyć tekstu marketingowo-produktowego. Na przykład, po
 Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w języku docelowym. Wówczas zaadaptowany tekst spełnia funkcje oryginalnego tekstu - co do joty - w zwięzły sposób, ale w nowym środowisku językowo-kulturowym.
 
 ----|----|----
-|[[Opinie](pages/opinie.html)] | [[Próbki](pages/resources.html)] | [[Kontakt](pages/resources.html)]
+|[[Opinie](pages/opinie.html)] | [[Próbki](pages/probki.html)] | [[Kontakt](pages/kontakt.html)]
