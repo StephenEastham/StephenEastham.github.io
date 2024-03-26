@@ -1,10 +1,6 @@
 ---
 layout: page
-title: Header 1 | Header 2
----------|---------
-Cell 1   | Cell 2
-Cell 3   | Cell 4
-You write it // I smooth it
+title: You write it ^ I smooth it
 tagline: 
 description: 
 ---
