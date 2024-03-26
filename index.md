@@ -14,7 +14,7 @@ Nazywam się Stephen Eastham. Jestem Anglikiem, językoznawcą komputerowym, a t
 
 Możesz powiedzieć właściwą rzecz o produkcie, usłudze, mieście lub kraju i nikt nie będzie słuchał. Musisz to powiedzieć tak, żeby ludzie poczuli to w swoich trzewiach. A może Twoje teksty mają własny styl, który wypracowaliście po polsku. Moja praca gwarantuje, że treść tekstu jest szybko zrozumiała i spójna, łatwa do zapamiętania, zawiera tyle słów, ile potrzeba - ani za dużo, ani za mało, pobudza wyobraźnię, wzbudza emocje i wywołuje odpowiednie reakcje, jest wartościowa i wciągająca, a także buduje wyjątkową historię Twojej marki w precyzyjny sposób. 
 
-Nie wystarczy przetłumaczyć tekstu marketingowo-produktowego. Dam przykład. Pomyślmy o kultowej reklamie proszku do prania, w której dwóch rosłych chłopców w strojach szlacheckich pyta: „Ojciec, prać?”. Dosłowne tłumaczenie tego krótkiego zdania to zadanie nieomalże niemożliwe. Dotykamy tu bardzo istotnych problemów z pogranicza socjologii, kultury i lingwistyki:
+Nie wystarczy przetłumaczyć tekstu marketingowo-produktowego. Na przykład, pomyślmy o kultowej reklamie proszku do prania, w której dwóch rosłych chłopców w strojach szlacheckich pyta: „Ojciec, prać?”. Dosłowne tłumaczenie tego krótkiego zdania to zadanie nieomalże niemożliwe. Dotykamy tu bardzo istotnych problemów z pogranicza socjologii, kultury i lingwistyki:
 
 ![](../images/leon.png){: width="500" height="375" style="display: block; margin: 0 auto"}
 
