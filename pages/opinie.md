@@ -30,4 +30,4 @@ description:
 
 
 ----|----|----
-|[[Home](../index.html)] | [[Próbki](pages/resources.html)] | [[Kontakt](pages/resources.html)]
+|[[Home](https://smoothenglish.com)] | [[Próbki](pages/resources.html)] | [[Kontakt](pages/resources.html)]
