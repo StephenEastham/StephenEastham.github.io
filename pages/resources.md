@@ -5,15 +5,15 @@ description:
 ---
 
 
-\ 'Stephen is one of the best UX/UI copy writers I know. Highly recommended.'
-\ (Tomasz: Product Owner, [SEQR](https://pages.github.com), Stockholm)
+* 'Stephen is one of the best UX/UI copy writers I know. Highly recommended.'
+| (Tomasz: Product Owner, [SEQR](https://pages.github.com), Stockholm)
 ^
 
-| 'To be honest, it's now much harder to create our product without having you as our copywriter.'
+* 'To be honest, it's now much harder to create our product without having you as our copywriter.'
 | (Piotr: Product Owner & Team Leader, [SEQR](https://pages.github.com), Stockholm)
 ^
 
-| 'Stephen, it's been a pleasure working with you on the UI, UX and product copywriting for our app.'
+* 'Stephen, it's been a pleasure working with you on the UI, UX and product copywriting for our app.'
 | (Łukasz: Head of UX & Design, [Seamless](), Stockholm)
 ^
 
