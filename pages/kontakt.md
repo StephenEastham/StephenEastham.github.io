@@ -4,10 +4,6 @@ title: Napisz do mnie | Rozliczenie
 description: 
 ---
 
-![](../images/stephen.png){: width="250" height="188" style="display: block; margin: 0 auto"}
-
----
-
 |
 ---------|
 W czym mogę pomóc? |
