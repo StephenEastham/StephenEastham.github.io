@@ -15,7 +15,11 @@ Nie wystarczy przetłumaczyć tekstu marketingowo-produktowego. Dam przykład. P
 ![](../images/leon.png){: width="500" height="375" style="display: block; margin: 0 auto"}
 
 Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w języku docelowym. Wówczas zaadaptowany tekst spełnia funkcje oryginalnego tekstu - co do joty - w zwięzły sposób, ale w nowym środowisku językowo-kulturowym.
+
 ---
-- [Próbki](pages/resources.html)
-- [Opinie / Kontakt](pages/resources.html)
+
+Header 1 | Header 2 | Header 3 
+---------|---------|---------
+[Próbki](pages/resources.html)  | [Opinie](pages/resources.html) | [Kontakt](pages/resources.html)
+
 
