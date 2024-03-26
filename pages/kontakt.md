@@ -5,7 +5,9 @@ description:
 ---
 |
 ---------|
-W czym mogę pomóc? Napisz do monie pod tym adresem: stephen.eastham59@gmail.com. Możesz pisać do mnie po polsku lub angielsku. |
+W czym mogę pomóc? |
+Napisz do mnie pod tym adresem: stephen.eastham59@gmail.com. |
+Możesz pisać do mnie po polsku lub angielsku. |
 | 
 
 |
