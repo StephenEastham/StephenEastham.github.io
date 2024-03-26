@@ -19,15 +19,12 @@ Za ważne przyczyny w rozumieniu niniejszej umowy, strony rozumieją między inn
  | 
 
 
-(3) Agile w Praktyce|![](../images/agile.jpg){: width="80" height="60" style="display: block; margin: auto"}
+(3) Agile w Praktyce|![](../images/agile.png){: width="80" height="60" style="display: block; margin: auto"}
 ---------|---------
 ... Wynika z tego, że choć w swych założeniach i praktyce podejścia te są od siebie bardzo różne to w praktyce organizacyjnej wykorzystuje się oba te podejścia zależnie od kontektu i sytuacji. Warto posłużyć się tutaj określeniem „dynamiczne sterowanie” - cele wyznaczamy planując, przewidując, natomiast osiągamy je dynamicznie reagując na zmieniające się warunki.
-
 Dobrym modelem mentalnym może być przykładowo wycieczka piesza. Decyzje o wycieczce, jej celu i ogólnej trasie podejmujemy zawczasu, predykcyjnie. Jednak realizujemy ją nie w oparciu o szczegółową mapę pokazującą jak postawić każdy kolejny krok, lecz przeciwnie reagując na napotkaną rzeczywistość (np. zamknięte przejście, opad deszczu, spóźniony autobus) wciąż jednak dążąc do strategicznego celu. Podobnie wygląda sterowanie organizacjami, z tą różnicą, że w odróżnieniu od wycieczki również cel może się zmienić zależnie od warunków.
-
 W każdym przypadku jednak - zarówno „makro” jak i „mikro” należy traktować predykcje jako li tylko prognozy rzeczywistości, prognozy, które jesteśmy w stanie w każdej chwili odrzucić lub zrewidować reagując na zmiany w rzeczywistości. Innymi słowy predykcja jest pożyteczna, o ile jest empirycznie weryfikowana i zmieniana. ...|... The reason for this is that, although the predictive approach and empirical approach are completely different both in theory and in practice, in the real-world, both approaches are used depending on the actual context and situation. Used together, we can talk of “dynamic control” as follows: we specify our goals by planning and predicting; but we implement our goals by reacting dynamically to changes in the surrounding context.
 A good analogy for this is the act of going for a walk. We use the predictive approach (in advance) to decide to go on a walk, to define its end point and to plan the general route. Although it is true that we carry out the walk by following details on a map which shows us where to go at every step, nevertheless we may have to react to whatever we meet along the way (for example, the fact that a path has been closed, that it starts to rain or that the bus is late) in order to achieve our (strategic) goal. Organizations can be steered in the same way, although, in their case the goal to be attained may change over time as the surrounding context changes.
-
 In any case, whether we are using the predictive approach at a level of abstraction which is “macro” or “micro”, it is important to understand that we are, in effect, merely predicting a certain reality and, later, we can throw away that prediction completely or change it to some degree in order to react to the reality which we actually encounter. In other words, the predictive approach is useful only in so far as its results are verified empirically and then changes are made as appropriate. ...
  | 
  | 
@@ -42,7 +39,7 @@ And so it took me a long time to understand and fully grasp the concept; Łódź
  | 
 
 
-(5) Ani takim to było jak raz się wydało, / Ani takim jak teraz układasz w opowieść ... ...|![](../images/lodz.jpg){: width="80" height="60" style="display: block; margin: auto"}
+(5) Ani takim to było jak raz się wydało, / Ani takim jak teraz układasz w opowieść ...|![](../images/.jpg){: width="80" height="60" style="display: block; margin: auto"}
 ---------|---------
 ... Trudno spoglądać na swą działalność niejako z zewnątrz, czyli nabrać dystansu wobec motywacji i różnorakich uwikłań, z których rodzi się każda twórczość. Ostatecznie bowiem także tekst naukowy jest przecież kreacją jakiegoś mikroświata. ...|... It is not easy to look at one’s own activities from, as it were, the outside, nor to distance oneself from that which one finds motivating and the various influences on all creative work. Ultimately, writing a scientific text means creating some kind of micro-world. ...
  Zatem podejmuję tę opowieść nie bez oporów, choć z zaciekawieniem. Przyświeca mi myśl Paula Ricoeur’a, który mówi, że nasza tożsamość odsłania się dopiero w akcie opowiadania, bo jest po prostu naszą historią (tzw. tożsamość narracyjna). Ale pamiętam też wersy Czesława Miłosza: „Ani takim to było jak raz się wydało, / Ani takim jak teraz układasz w opowieść”. ...|I therefore begin this story not without a feeling of resistance, although I admit to a certain degree of curiosity. I am guided by Paul Ricoeur, who said that our identity is revealed only in the actual act of storytelling (so called narrative identity) because, put simply, this is our story. But I also recall the following verses by Czesław Miłosz: "Neither was it as it once seemed, / Nor is it as you tell it in your story now." ...
