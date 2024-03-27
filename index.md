@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You write it, <div markdown ="1"> I smooooth it
+title: You write it, and then I smooooth it
 tagline: 
 description: 
 ---
@@ -18,5 +18,4 @@ Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w
 
 ---
 
-----|----|----|----
-__Oferta__ |[[Opinie](pages/opinie.html)] | [[Moja pasja](pages/pasja.html)] | [[Kontakt](pages/kontakt.html)]
+_Oferta_  &#xA0; [[__Opinie__](pages/opinie.html)]  &#xA0; [[__Moja pasja__](pages/pasja.html)]  &#xA0; [[__Kontakt__](pages/kontakt.html)]

@@ -30,5 +30,4 @@ description:
 
 ---
 
-----|----|----|----
-[[Oferta](https://smoothenglish.com)] | __Opinie__ | [[Moja pasja](../pages/pasja.html)] | [[Kontakt](../pages/kontakt.html)]
+[[__Oferta__](https://smoothenglish.com)]  &#xA0; _Opinie_  &#xA0; [[__Moja pasja__](../pages/pasja.html)]  &#xA0; [[__Kontakt__](../pages/kontakt.html)]
