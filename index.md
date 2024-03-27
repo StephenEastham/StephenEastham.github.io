@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You write it, and then <br markdown="1"><i markdown = "1">I</i>  sm<i markdown = "1">oooooooooo</i>th it
+title: You write it - <i markdown = "1">I</i>  smooooooooooooooth it
 tagline: 
 description: 
 ---
