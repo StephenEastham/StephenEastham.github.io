@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Polski język to moja nieuleczalna pasja
+title: Polski język to moja pasja
 description: 
 ---
 Fragmenty z trzech moich tłumaczeń:
