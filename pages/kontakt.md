@@ -4,7 +4,7 @@ title: Napisz do mnie &#xA0; | &#xA0; Rozliczenie
 description: 
 ---
 ---------|
-__Napisz do mnie__ |
+<em markdown="1">__Napisz do mnie__</em> |
 W czym mogę pomóc? |
 Napisz do mnie pod tym adresem: <stephen.eastham59@gmail.com>.|
 Możesz pisać do mnie po polsku lub angielsku. |
@@ -13,7 +13,7 @@ Możesz pisać do mnie po polsku lub angielsku. |
 
 
 ---------|
-__Rozliczenie__ | 
+<em markdown="1">__Rozliczenie__</em> | 
 Rozliczam się na podstawie umowy o dzieło z przekazaniem praw autorskich do tekstów. |
 Wystawiam rachunek, a nie wystawiam faktur VAT. |
 |
