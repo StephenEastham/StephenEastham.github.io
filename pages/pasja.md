@@ -3,7 +3,7 @@ layout: page
 title: Polski język to moja pasja
 description: 
 ---
-<strong markdown="1"><em markdown="1">Fragmenty z trzech moich tłumaczeń:</em></strong>
+<em markdown="1">Fragmenty z trzech moich tłumaczeń:</em>
 
 Symbolika sprężyny w pełni wyraża ...|![](../images/sprezyna.jpg){: width="120" height="90" style="display: block; margin: auto"}
 ---------|---------
