@@ -48,4 +48,4 @@ Ale zanim to zrozumiałem trwało to długo, nim się z tym zamysłem nie zident
  
 ---
 
-[[__Oferta__](https://smoothenglish.com)]  &#xA0; [[__Opinie__](../pages/opinie.html)]  &#xA0; _Moja pasja_  &#xA0;   [[__Kontakt]__(../pages/kontakt.html)]
+[[__Oferta__](https://smoothenglish.com)]  &#xA0; [[__Opinie__](../pages/opinie.html)]  &#xA0; _Moja pasja_  &#xA0;   [[__Kontakt__](../pages/kontakt.html)]
