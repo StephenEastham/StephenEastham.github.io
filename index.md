@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You write it, <br markdown="1">I smoooooooooooth it
+title: <p markdown ="1" style="text-align: center;">You write it, <br markdown="1">I smoooooooooooth it,</p>
 tagline: 
 description: 
 ---
