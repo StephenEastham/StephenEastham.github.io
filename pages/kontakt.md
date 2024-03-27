@@ -5,14 +5,17 @@ description:
 ---
 ---------|
 __Napisz do mnie__ |
+|
 W czym mogę pomóc? |
 Napisz do mnie pod tym adresem: <stephen.eastham59@gmail.com>. |
 Możesz pisać do mnie po polsku lub angielsku. |
 | 
+|
 
 
 ---------|
-__Rozliczenie__ | 
+__Rozliczenie__ |
+| 
 Rozliczam się na podstawie umowy o dzieło z przekazaniem praw autorskich do tekstów. |
 Wystawiam rachunek, a nie wystawiam faktur VAT. |
 |
