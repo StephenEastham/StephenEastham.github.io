@@ -19,4 +19,4 @@ Wystawiam rachunek, a nie wystawiam faktur VAT.|
 
 ---
 
-<p markdown ="1" style="text-align: center;"> [[__Oferta__](https://smoothenglish.com)] &#xA0;  [[__Opinie__](../pages/opinie.html)] &#xA0;  [[__Moja pasja__](../pages/pasja.html)]  &#xA0;  _Kontakt_ </p>
+[[__Oferta__](https://smoothenglish.com)] &#xA0;  [[__Opinie__](../pages/opinie.html)] &#xA0;  [[__Moja pasja__](../pages/pasja.html)]  &#xA0;  _Kontakt_
