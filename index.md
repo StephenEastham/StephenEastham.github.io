@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You write it ... I  won't sm<i markdown="1">ooooo</i>th it
+title: You write it ... I  will not sm<i markdown="1">ooooo</i>th it
 tagline: 
 description: 
 ---
