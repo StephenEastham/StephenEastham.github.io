@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Co mówią klienci
+title: Co piszą klienci
 description: 
 ---
 |
