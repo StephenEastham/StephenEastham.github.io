@@ -4,25 +4,14 @@ title: Napisz do mnie &#xA0; | &#xA0; Rozliczenie
 description: 
 ---
 
-
-Napisz do mnie | HRozliczenie
----------|---------
-W czym mogę pomóc?   | Rozliczam się na podstawie umowy o dzieło z przekazaniem praw autorskich do tekstów.
-Napisz do mnie pod tym adresem: <stephen.eastham59@gmail.com>.    | Wystawiam rachunek, a nie wystawiam faktur VAT.
-Możesz pisać do mnie po polsku lub angielsku.    | Cell 4
-
-
-
-
-
-|
+Napisz do mnie|
 ---------|
 W czym mogę pomóc? |
 Napisz do mnie pod tym adresem: <stephen.eastham59@gmail.com>. |
 Możesz pisać do mnie po polsku lub angielsku. |
 | 
 
-|
+Rozliczenie|
 ---------|
 Rozliczam się na podstawie umowy o dzieło z przekazaniem praw autorskich do tekstów.|
 Wystawiam rachunek, a nie wystawiam faktur VAT.|
