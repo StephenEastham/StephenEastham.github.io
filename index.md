@@ -18,4 +18,4 @@ Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w
 
 ---
 
-<h3 markdown="1">_Oferta_  &#xA0; [[__Opinie__](pages/opinie.html)]  &#xA0; [[__Moja pasja__](pages/pasja.html)]  &#xA0; [[__Kontakt__](pages/kontakt.html)]</h3>
+<h6 markdown="1">_Oferta_  &#xA0; [[__Opinie__](pages/opinie.html)]  &#xA0; [[__Moja pasja__](pages/pasja.html)]  &#xA0; [[__Kontakt__](pages/kontakt.html)]</h3>
