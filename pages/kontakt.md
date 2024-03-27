@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Napisz do mnie // Rozliczenie
+title: Napisz do mnie &#xA0; &#xA0; - &#xA0; &#xA0; Rozliczenie
 description: 
 ---
 
