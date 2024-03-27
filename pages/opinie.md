@@ -6,7 +6,7 @@ description:
 
 |
 ---------|
-'The articles are awesome. Thanks for your fantastic work.'|
+'The articles are awesome. Thanks for your fantastic editing.'|
 - Rafał, COO, [Digica](https://www.digica.com/blog.html), Manchester, Berlin, San Jose|
 
 |
