@@ -6,7 +6,8 @@ description:
 ---------|
 __Napisz do mnie__ |
 W czym mogę pomóc? |
-Napisz do mnie pod tym adresem: <stephen.eastham59@gmail.com>. |
+Napisz do mnie pod tym adresem: |
+<stephen.eastham59@gmail.com>. |
 Możesz pisać do mnie po polsku lub angielsku. |
 | 
 |
@@ -14,7 +15,8 @@ Możesz pisać do mnie po polsku lub angielsku. |
 
 ---------|
 __Rozliczenie__ | 
-Rozliczam się na podstawie umowy o dzieło z przekazaniem praw autorskich do tekstów. |
+Rozliczam się na podstawie umowy o dzieło. |
+Tym samym przekazuję prawa autorskie do tekstów. |
 Wystawiam rachunek, a nie wystawiam faktur VAT. |
 |
 
