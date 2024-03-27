@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You write it &#xA0; &#xA0; &#xA0; &#xA0; - &#xA0; &#xA0; &#xA0; &#xA0; I smooooth it
+title: <center markdown="1">You write it - I smooooth it</center>
 tagline: 
 description: 
 ---
