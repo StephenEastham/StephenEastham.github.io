@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You write it  -  I smooooth it
+title: You write it  --  I smooooth it
 tagline: 
 description: 
 ---
