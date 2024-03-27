@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You write it ... I sm<fontsize="1">o</fontsize>ooooth it
+title: You write it ... I smooo<em markdown="1">oooth</em> it
 tagline: 
 description: 
 ---
