@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Napisz do mnie &#xA0; &#xA0; | &#xA0; &#xA0; Rozliczenie
+title: Napisz do mnie &#xA0; | &#xA0; Rozliczenie
 description: 
 ---
 
@@ -19,4 +19,4 @@ Wystawiam rachunek, a nie wystawiam faktur VAT.|
 
 ---
 
-[[__Oferta__](https://smoothenglish.com)] &#xA0;  [[__Opinie__](../pages/opinie.html)] &#xA0;  [[__Moja pasja__](../pages/pasja.html)]  &#xA0;  _Kontakt_
+<center markdown = "1"> [[__Oferta__](https://smoothenglish.com)] &#xA0;  [[__Opinie__](../pages/opinie.html)] &#xA0;  [[__Moja pasja__](../pages/pasja.html)]  &#xA0;  _Kontakt_ </center>
