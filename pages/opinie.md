@@ -3,6 +3,12 @@ layout: page
 title: Co piszą klienci
 description: 
 ---
+
+|
+---------|
+'That article is awesome. I love it.'|
+- Rafał, COO, [Digica](https://www.digica.com/blog.html), Manchester, Berlin, San Jose|
+
 |
 ---------|
 'Stephen, it's been a pleasure working with you on the UI, UX and product copywriting for our app.'|
