@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Co piszą klienci
+title: Wiedzieć, co w trawie piszczy
 description: 
 ---
+<em markdown="1">(Co piszą klientki i klienci o mnie)</em>
 
 |
 ---------|

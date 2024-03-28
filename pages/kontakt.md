@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Napisz do mnie &#xA0; | &#xA0; Rozliczenie
+title: Porozumiewajmy się
 description: 
 ---
+<em markdown="1">(Napisz do mnie &#xA0; | &#xA0; Rozliczenie)</em>
+
 ---------|
 <em markdown="1">__Napisz do mnie__</em> |
 W czym mogę pomóc? |
