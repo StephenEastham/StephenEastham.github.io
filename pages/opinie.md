@@ -7,7 +7,7 @@ description:
 
 |
 ---------|
-'The blog articles that you edited are awesome. Thanks for your fantastic work.'|
+'The articles that you edited are awesome. Thanks for your fantastic work.'|
 - Rafał, COO, [Digica](https://www.digica.com/blog.html), Manchester, Berlin, San Jose|
 
 |
