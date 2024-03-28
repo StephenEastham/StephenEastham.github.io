@@ -3,9 +3,10 @@ layout: page
 title: Porozumiewajmy się
 description: 
 ---
+<em markdown="1">(Napisz do mnie &#xA0; | &#xA0; Rozliczenie)</em>
 
 ---------|
-<em markdown="1">__Napisz do mnie__</em> |
+<!--<em markdown="1">__Napisz do mnie__</em> |-->
 W czym mogę pomóc? |
 Napisz do mnie pod tym adresem: <stephen.eastham59@gmail.com>.|
 Możesz pisać do mnie po polsku lub angielsku. |
@@ -14,7 +15,7 @@ Możesz pisać do mnie po polsku lub angielsku. |
 
 
 ---------|
-<em markdown="1">__Rozliczenie__</em> | 
+<!--<em markdown="1">__Rozliczenie__</em> | -->
 Rozliczam się na podstawie umowy o dzieło z przekazaniem praw autorskich do tekstów. |
 Wystawiam rachunek, a nie wystawiam faktur VAT. |
 |
