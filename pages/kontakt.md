@@ -3,7 +3,6 @@ layout: page
 title: Porozumiewajmy się
 description: 
 ---
-<em markdown="1">(Napisz do mnie &#xA0; | &#xA0; Rozliczenie)</em>
 
 ---------|
 <em markdown="1">__Napisz do mnie__</em> |

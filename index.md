@@ -4,7 +4,7 @@ title: You write it ... &#xA0;I smoooooth it
 tagline: 
 description: 
 ---
-Redagując Twoje teksty, piszę krystalicznie jasno po angielsku. I to sprawia, że to co jest w Twojej głowie, znajdzie się w głowie Twojego klienta.
+<em markdown="1">Redagując Twoje teksty, piszę krystalicznie jasno po angielsku. I to sprawia, że to co jest w Twojej głowie, znajdzie się w głowie Twojego klienta.</em>
 
 Nazywam się Stephen Eastham. Jestem Anglikiem, językoznawcą komputerowym, a także prawnikiem. Nie jestem surową panią od angielskiego, która tylko poprawi błędy gramatyczne. Redaguję angielskie teksty, tak aby były możliwie jasne, zwięzłe i na temat. Innymi słowy dbam o to, aby tekst angielski oddał pełen sens i znaczenie, zgodnie z intencją autora dostarczonego tekstu.
 

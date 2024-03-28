@@ -3,7 +3,7 @@ layout: page
 title: Wiedzieć, co w trawie piszczy
 description: 
 ---
-<em markdown="1">(Co piszą klientki i klienci o mnie)</em>
+<em markdown="1">(Klienci piszą ...)</em>
 
 |
 ---------|
