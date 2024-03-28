@@ -17,4 +17,5 @@ Napisz do mnie pod tym adresem: <stephen.eastham59@gmail.com>.|
 Możesz pisać do mnie po polsku lub angielsku. |
 
 ---
+
 [[__Oferta__](https://smoothenglish.com)] &#xA0;  [[__Opinie__](../pages/opinie.html)] &#xA0;  [[__Moja pasja__](../pages/pasja.html)]  &#xA0;  _Kontakt_
