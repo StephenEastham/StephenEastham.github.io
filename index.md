@@ -1,6 +1,6 @@
 ---
 layout: page
-title: You write it... &#xA0;I   <font size="2">s</font><font size="3">m</font><font size="4">o</font><font size="5">o</font><font size="6">o</font><font size="7">o</font><font size="8">t</font><font size="9">h</font> it
+title: You write it... &#xA0;I   <font size="4">s</font><font size="5">m</font><font size="6">o</font><font size="7">o</font><font size="8">t</font><font size="9">h</font> it
 tagline: 
 description: 
 ---
