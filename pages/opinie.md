@@ -13,7 +13,7 @@ description:
 |
 ---------|
 'Stephen, it's been a pleasure working with you on the UI, UX and product copywriting for our app.'|
-- Łukasz, Head of UX & Design, [Seamless](), Stockholm|
+- Łukasz, Head of UX & Design, Stockholm|
 
 |
 ---------|
@@ -28,12 +28,12 @@ description:
 | 
 ---------|
 'To be honest, it's now much harder to create our product without having you as our copywriter.'|
-- Piotr, Product Owner & Team Leader, [SEQR](), Stockholm|
+- Piotr, Product Owner & Team Leader, SEQR, Stockholm|
 
 |
 ---------|
 'Dzięki za tłumaczenie naszego folderu promocyjnego. Nikt nie zrobiłby tego lepiej.'|
-- Krzysztof, Prezes, [FabLab](https://fablablodz.org/), Łódź|
+- Krzysztof, Prezes, fablablodz, Łódź|
 
 ---
 
