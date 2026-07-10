@@ -13,7 +13,7 @@ description:
 |
 ---------|
 'Stephen, it's been a pleasure working with you on the UI, UX and product copywriting for our app.'|
-- Łukasz, Head of UX & Design, Stockholm|
+- Łukasz, Head of UX & Design, Seamless, Stockholm|
 
 |
 ---------|
