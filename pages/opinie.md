@@ -37,4 +37,4 @@ description:
 
 ---
 
-[__(Była) oferta__(https://stepheneastham.github.io/)]  &#xA0; _Opinie_  &#xA0; [[__Moja pasja__](../pages/pasja.html)]  &#xA0; <!-- [[__Kontakt__](pages/kontakt.html)] -->
+[[__(Była) oferta__](https://stepheneastham.github.io/)]  &#xA0; _Opinie_  &#xA0; [[__Moja pasja__](../pages/pasja.html)]  &#xA0; <!-- [[__Kontakt__](pages/kontakt.html)] -->
