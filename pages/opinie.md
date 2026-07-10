@@ -27,7 +27,7 @@ description:
 
 | 
 ---------|
-'To be honest, it's now much harder to create our product without having you as our copywriter.'|
+'To be honest, it's now much harder to create our product without having you as our Product writer.'|
 - Piotr, Product Owner & Team Leader, SEQR, Stockholm|
 
 |
