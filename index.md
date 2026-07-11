@@ -18,4 +18,4 @@ Zadanie wymaga bowiem przekształcenia tekstu tak, by funkcjonował naturalnie w
 
 ---
 
-_Koncepcja_  &#xA0; [[__Opinie__](pages/opinie.html)]  &#xA0; [[__Moja pasja__](pages/pasja.html)]  &#xA0; <!-- [[__Kontakt__](pages/kontakt.html)] -->
+_Koncepcja_  &#xA0; [[__Moja pasja__](pages/pasja.html)]  &#xA0; [[__Opinie__](pages/opinie.html)] &#xA0; <!-- [[__Kontakt__](pages/kontakt.html)] -->

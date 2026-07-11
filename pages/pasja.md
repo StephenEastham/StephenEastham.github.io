@@ -46,4 +46,4 @@ Ale zanim to zrozumiałem trwało to długo, nim się z tym zamysłem nie zident
  
 ---
 
-[[__Koncepcja__](https://stepheneastham.github.io/)]  &#xA0; [[__Opinie__](../pages/opinie.html)]  &#xA0; _Moja pasja_  &#xA0;   <!-- [[__Kontakt__](pages/kontakt.html)] -->
+[[__Koncepcja__](https://stepheneastham.github.io/)]  &#xA0; _Moja pasja_  &#xA0; [[__Opinie__](../pages/opinie.html)]  &#xA0;   <!-- [[__Kontakt__](pages/kontakt.html)] -->
