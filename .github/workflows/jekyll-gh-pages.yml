@@ -1,5 +1,0 @@
-# DISABLED - jekyll.yml is used instead
-name: DISABLED
-
-on:
-  workflow_dispatch:
