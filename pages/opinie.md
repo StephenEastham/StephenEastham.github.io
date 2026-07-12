@@ -3,7 +3,7 @@ layout: page
 title: Wiedzieć, co w trawie piszczy
 description: 
 ---
-<em markdown="1">( Byłi klienci piszą ... )</em>
+<em markdown="1">( Byli klienci pisali ... )</em>
 
 |
 ---------|
@@ -37,4 +37,4 @@ description:
 
 ---
 
-[[__Koncepcja__](https://stepheneastham.github.io/)]  &#xA0; [[__Moja pasja__](../pages/pasja.html)] &#xA0; _Opinie_   &#xA0; <!-- [[__Kontakt__](pages/kontakt.html)] -->
+[[__Kopia archiwalna oferty__](https://stepheneastham.github.io/)]  &#xA0; [[__Moja pasja__](../pages/pasja.html)] &#xA0; _Opinie_   &#xA0; <!-- [[__Kontakt__](pages/kontakt.html)] -->
